@@ -1,5 +1,5 @@
-.header {
-  position: center;
+#header {
+  position: relative;
   font-family: Helvetica, sans-serif;
 }
 .title {
