@@ -1,10 +1,14 @@
 #header {
   position: relative;
-  font-family: Helvetica, sans-serif;
+  font-family: Garamond, serif;
+  text-align: center;
+  border-radius: 6px;
+  border: 2px solid black;
+  
 }
 .title {
   color: white;
-  font-size: 150%;
+  font-size: 80px;
 }
   
 p {
