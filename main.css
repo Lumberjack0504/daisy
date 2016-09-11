@@ -13,6 +13,8 @@
   
 p {
   color: white;
+  font-family: Garamond. serif;
+  font-size: 30px;
 }
 
 body {
@@ -22,5 +24,6 @@ body {
 #footer {
   color: white;
   position: relative;
-  text-align: center;
+  margin-top: 1000px;
+  margin-left: 200px;
 }
