@@ -18,3 +18,9 @@ p {
 body {
   background-color: gray;
 }
+
+#footer {
+  color: white;
+  position: relative;
+  text-align: left;
+}
