@@ -2,13 +2,13 @@
   position: relative;
   font-family: Garamond, serif;
   text-align: center;
-  border-radius: 6px;
-  border: 2px solid black;
-  
 }
+
 .title {
   color: white;
   font-size: 80px;
+  border-radius: 10px;
+  border: 2px solid black;
 }
   
 p {
@@ -22,5 +22,5 @@ body {
 #footer {
   color: white;
   position: relative;
-  text-align: left;
+  text-align: center;
 }
