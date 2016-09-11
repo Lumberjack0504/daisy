@@ -1,5 +1,10 @@
+#title {
+  position: center;
+  font-family: Helvitca, sans-serif;
+}
 h1 {
   color: white;
+  font-size: 150%;
 }
   
 p {
