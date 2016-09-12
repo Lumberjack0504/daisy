@@ -2,13 +2,23 @@
   position: relative;
   font-family: Garamond, serif;
   text-align: center;
+  border: 3px solid black;
+  border-radius: 10px;
 }
 
-.title {
+.title1 {
+  color: white;
+  font-size: 120px;
+}
+
+.title2 {
   color: white;
   font-size: 80px;
-  border-radius: 10px;
-  border: 2px solid black;
+}
+
+.title3 {
+  color: white;
+  font-size: 75px;
 }
   
 p {
