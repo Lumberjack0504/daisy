@@ -38,4 +38,5 @@ body {
   position: relative;
   margin-top: 200px;
   margin-left: 1000px;
+  border-top: 3px solid black;
 }
