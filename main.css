@@ -1,44 +1,41 @@
 #header {
   text-align: center;
-  border: 3px solid black;
-  border-radius: 10px;
-  display: inline;
+  border-bottom: 6px solid black;
 }
 
 .title1 {
   color: white;
-  font-family: French Script;
+  font-family: Garamond;
   font-size: 120px;
   display: inline;
 }
 
 .title2 {
   color: white;
-  font-family: Garamond, serif;
+  font-family: Garamond;
   font-size: 80px;
   display: inline;
 }
 
 .title3 {
   color: white;
-  font-family: Courier New Italic;
+  font-family: Garamond;
   font-size: 65px;
   display: inline;
 }
   
 p {
   color: white;
-  font-family: Courier New Italic, serif;
   font-size: 30px;
 }
 
 body {
-  background-color: gray;
+  background-color: #B12045;
 }
 
 #footer {
   color: white;
   position: relative;
-  margin-top: 100px;
+  margin-top: 200px;
   margin-left: 1000px;
 }
