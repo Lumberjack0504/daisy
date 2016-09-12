@@ -10,16 +10,19 @@
 .title1 {
   color: white;
   font-size: 120px;
+  display: inline;
 }
 
 .title2 {
   color: white;
   font-size: 80px;
+  display: inline;
 }
 
 .title3 {
   color: white;
   font-size: 75px;
+  display: inline;
 }
   
 p {
