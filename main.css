@@ -2,6 +2,7 @@
   text-align: center;
   border-bottom: 6px solid black;
   background-image: url("gjmtopphoto.jpg");
+  background-size: cover;
 }
 
 .title1 {
