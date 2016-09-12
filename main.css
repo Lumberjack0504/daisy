@@ -34,9 +34,11 @@ body {
 }
 
 #footer {
+  font-family: Helvetica, serif;
+  font-size: 30px;
   color: black;
   position: relative;
   float: right;
-  margin-top: 1000px;
+  margin-top: 800px;
   border-top: 3px solid black;
 }
