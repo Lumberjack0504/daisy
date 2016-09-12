@@ -1,5 +1,4 @@
 #header {
-  font-family: Garamond, serif;
   text-align: center;
   border: 3px solid black;
   border-radius: 10px;
@@ -8,12 +7,14 @@
 
 .title1 {
   color: white;
+  font-family: French Script;
   font-size: 120px;
   display: inline;
 }
 
 .title2 {
   color: white;
+  font-family: Garamond, serif;
   font-size: 80px;
   display: inline;
 }
@@ -26,7 +27,7 @@
   
 p {
   color: white;
-  font-family: Garamond. serif;
+  font-family: Courier New Italic, serif;
   font-size: 30px;
 }
 
