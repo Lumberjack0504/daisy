@@ -30,13 +30,12 @@ p {
 }
 
 body {
-  background-color: #B12045;
+  background-color: #770A26;
 }
 
 #footer {
-  color: white;
+  color: black;
   position: relative;
-  margin-top: 1000px;
-  margin-left: 1000px;
+  float: right;
   border-top: 3px solid black;
 }
