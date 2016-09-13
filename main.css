@@ -26,6 +26,18 @@ header .row, footer .row {
   align-items: center;
 }
 
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  font-family: Garamond;
+  color: #510216;
+  padding: 0 10px;
+  margin: 0;
+}
+
 body {
   background-color: #ADA9AA;
 }
