@@ -4,26 +4,25 @@ header {
 
 header .title-1 {
   font-size: 96px;
-  font-family: Garamond;
+  font-family: Garamond, serif;
   color: #510216;
 }
 
 header .title-2 {
   font-size: 62px;
-  font-family: Garamond;
+  font-family: Garamond, serif;
   color: #510216;
 }
 
 header .title-3 {
-  padding: 20px;
   font-size: 48px;
-  font-family: Garamond;
+  font-family: Garamond, serif;
   color: #510216;
 }
 
 header .row, footer .row {
   display: flex;
-  align-items: center;
+  align-items: left;
 }
 
 header nav {
@@ -32,7 +31,7 @@ header nav {
 }
 
 header p {
-  font-family: Garamond;
+  font-family: Garamond, serif;
   font-size: 20px;
   float: right;
   color: #510216;
@@ -48,7 +47,7 @@ body {
   display: flex;
   align-items: center;
   background-image: url('https://github.com/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg?raw=true');
-  background-size: cover;
+  background-size: fit;
   background-repeat: no-repeat;
   height: 800px;
 }
