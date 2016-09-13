@@ -21,7 +21,7 @@ header .title-3 {
 }
 
 header .row, footer .row {
-  display: inline;
+  display: flex;
   align-items: center;
 }
 
