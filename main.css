@@ -1,48 +1,22 @@
-#header {
-  text-align: center;
-  border-bottom: 6px solid black;
-  background-image: url("/Lumberjack0504/daisy/blob/0f438c0b4375ec14c57ff74a7468707f29be575e/gjmtopphoto.jpg");
-  background-size: cover;
-  padding: 20px;
-  margin: 20px;
+header {
+  padding: 20px 0;
 }
 
-.title1 {
-  color: white;
-  font-family: Garamond;
-  font-size: 120px;
-  display: inline;
+footer {
+  font-size: 15px:
+  padding: 20px 0;
 }
 
-.title2 {
-  color: white;
-  font-family: Garamond;
-  font-size: 80px;
-  display: inline;
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
 }
 
-.title3 {
-  color: white;
-  font-family: Garamond;
-  font-size: 65px;
-  display: inline;
-}
-  
-p {
-  color: white;
-  font-size: 30px;
+footer ul {
+  list-style: none;
 }
 
-body {
-  background-color: #770A26;
-}
-
-#footer {
-  font-family: Helvetica, serif;
-  font-size: 15px;
-  color: #38020F;
-  position: relative;
-  float: right;
-  margin-top: 800px;
-  border-top: 3px solid black;
+footer li img {
+  height: 32px;
+  width: 32px;
 }
