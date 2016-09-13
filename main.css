@@ -33,7 +33,7 @@ body {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg');
+  background-image: url('https://github.com/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg?raw=true');
   background-size: cover;
   height: 500px;
 }
