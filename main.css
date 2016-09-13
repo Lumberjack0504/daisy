@@ -2,6 +2,31 @@ header {
   padding: 20px 0;
 }
 
+header .title-1 {
+  font-size: 120px;
+  font-family: Garamond;
+  color: white;
+}
+
+header .title-2 {
+  font-size: 80px;
+  font-family: Garamond;
+  color: white;
+}
+
+header .title-3 {
+  font-size: 65px;
+  font-family: Garamond;
+  color: white;
+}
+
+header .row, footer .row {
+  display: inline;
+  align-items: center;
+}
+
+
+
 footer {
   font-size: 15px:
   padding: 20px 0;
