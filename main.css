@@ -25,6 +25,10 @@ header .row, footer .row {
   align-items: center;
 }
 
+body {
+  background-color: #ADA9AA;
+}
+
 footer {
   font-size: 15px:
   padding: 20px 0;
