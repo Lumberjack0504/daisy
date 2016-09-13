@@ -1,21 +1,21 @@
 header {
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 header .title-1 {
-  font-size: 120px;
+  font-size: 96px;
   font-family: Garamond;
   color: #510216;
 }
 
 header .title-2 {
-  font-size: 80px;
+  font-size: 62px;
   font-family: Garamond;
   color: #510216;
 }
 
 header .title-3 {
-  font-size: 65px;
+  font-size: 34px;
   font-family: Garamond;
   color: #510216;
 }
