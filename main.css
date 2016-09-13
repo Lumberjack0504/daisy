@@ -34,15 +34,16 @@ body {
   display: flex;
   align-items: center;
   background-image: url('https://github.com/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg?raw=true');
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 800px;
 }
 
 .jumbotron h3 {
+  position: relative;
+  top: -20px;
   font-size: 40px;
   font-family: serif;
-  align-items: top;
   color: white;
 }
 
