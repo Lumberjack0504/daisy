@@ -5,28 +5,24 @@ header {
 header .title-1 {
   font-size: 120px;
   font-family: Garamond;
-  color: white;
+  color: #510216;
 }
 
 header .title-2 {
   font-size: 80px;
   font-family: Garamond;
-  color: white;
+  color: #510216;
 }
 
 header .title-3 {
   font-size: 65px;
   font-family: Garamond;
-  color: white;
+  color: #510216;
 }
 
 header .row, footer .row {
   display: inline;
   align-items: center;
-}
-
-body {
-  background-color: #510216;
 }
 
 footer {
