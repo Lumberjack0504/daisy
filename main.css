@@ -34,8 +34,8 @@ body {
   display: flex;
   align-items: center;
   background-image: url('https://github.com/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg?raw=true');
-  background-size: fit;
-  height: 500px;
+  background-size: contain;
+  height: 800px;
 }
 
 footer {
