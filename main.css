@@ -29,11 +29,12 @@ header .row, footer .row {
 header nav {
   display: flex;
   align-items: flex-end;
-  font-size: 25px;
 }
 
 header p {
   font-family: Garamond;
+  font-size: 20px;
+  float: right;
   color: #510216;
   padding: 0 10px;
   margin: 0;
@@ -54,7 +55,7 @@ body {
 
 .jumbotron h3 {
   position: relative;
-  top: -20px;
+  top: -200px;
   font-size: 40px;
   font-family: serif;
   color: white;
