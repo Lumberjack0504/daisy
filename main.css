@@ -38,6 +38,13 @@ body {
   height: 800px;
 }
 
+.jumbotron h3 {
+  font-size: 20px;
+  font-family: serif;
+  align-items: top;
+  color: white;
+}
+
 footer {
   font-size: 15px:
   padding: 5px;
