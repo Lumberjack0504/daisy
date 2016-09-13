@@ -32,10 +32,10 @@ body {
 
 .jumbotron {
   display: flex;
+  align-items: center;
   background-image: url('/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg');
   background-size: cover;
   height: 500px;
-  
 }
 
 footer {
