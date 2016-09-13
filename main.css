@@ -27,8 +27,9 @@ header .row, footer .row {
 }
 
 header nav {
-  float: right;
-  font-size: 15px;
+  display: flex;
+  align-items: flex-end;
+  font-size: 25px;
 }
 
 header p {
