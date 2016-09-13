@@ -25,7 +25,9 @@ header .row, footer .row {
   align-items: center;
 }
 
-
+body {
+  background-color: #510216;
+}
 
 footer {
   font-size: 15px:
