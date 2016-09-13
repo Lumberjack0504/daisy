@@ -29,6 +29,7 @@ header .row, footer .row {
 header nav {
   display: flex;
   align-items: flex-end;
+  float: right;
 }
 
 header p {
