@@ -3,7 +3,7 @@ header {
 }
 
 header .title {
-  display: inline;
+  display: flex;
 }
 
 header h1 {
