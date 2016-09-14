@@ -20,14 +20,6 @@ header .title-3 {
   color: #510216;
 }
 
-header .row {
-  float: left;
-}
-
-header .row {
-  float: right;
-}
-
 header .row, footer .row {
   display: flex;
   align-items: center;
@@ -61,7 +53,7 @@ body {
 
 .jumbotron h3 {
   position: relative;
-  top: -400px;
+  top: -325px;
   font-size: 50px;
   font-family: serif;
   color: white;
