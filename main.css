@@ -22,6 +22,7 @@ header .title-3 {
 
 header .row, footer .row {
   display: flex;
+  align-items: center;
 }
 
 header nav {
@@ -52,11 +53,12 @@ body {
 
 .jumbotron h3 {
   position: relative;
-  top: -350px;
+  top: -375px;
   font-size: 50px;
   font-family: serif;
+  font-weight: bold;
   color: #510216;
-  border: 2px solid black;
+  border: 0px;
   border-radius: 10px;
   background-color: #ADA9AA;
   opacity: 0.6;
