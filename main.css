@@ -3,22 +3,22 @@ header {
 }
 
 header h1 {
-  display: flex;
-  font-size: 92px;
+  display: inline;
+  font-size: 40px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header h2 {
-  display: flex;
-  font-size: 58px;
+  display: inline
+  font-size: 32px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header h3 {
-  display: flex;
-  font-size: 44px;
+  display: inline;
+  font-size: 20px;
   font-family: Garamond, serif;
   color: #510216;
 }
