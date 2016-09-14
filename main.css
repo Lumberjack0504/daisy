@@ -24,7 +24,7 @@ header .row, footer .row {
   display: flex;
 }
 
-header nav .col-sm-8 {
+header nav {
   display: flex;
   justify-content: flex-end;
 }
@@ -52,13 +52,14 @@ body {
 
 .jumbotron h3 {
   position: relative;
-  top: -325px;
+  top: -350px;
   font-size: 50px;
   font-family: serif;
   color: #510216;
   border: 2px solid black;
   border-radius: 10px;
   background-color: #ADA9AA;
+  opacity: 0.6;
 }
 
 footer {
