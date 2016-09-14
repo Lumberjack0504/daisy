@@ -27,13 +27,12 @@ header .row, footer .row {
 
 header nav {
   display: flex;
-  align-items: flex-end;
+  justify: flex-end;
 }
 
 header p {
   font-family: Garamond, serif;
-  font-size: 20px;
-  float: right;
+  font-size: 28px;
   color: #510216;
   padding: 0 10px;
   margin: 0;
