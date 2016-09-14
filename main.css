@@ -3,19 +3,19 @@ header {
 }
 
 header h1 {
-  font-size: 58px;
+  font-size: 62px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header h2 {
-  font-size: 46px;
+  font-size: 50px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header h3 {
-  font-size: 34px;
+  font-size: 38px;
   font-family: Garamond, serif;
   color: #510216;
 }
@@ -29,6 +29,7 @@ header .row, footer .row {
 header nav {
   display: flex;
   justify-content: flex-end;
+  align: right;
 }
 
 header p {
@@ -36,7 +37,6 @@ header p {
   font-size: 25px;
   color: #510216;
   padding: 0 10px;
-  margin: 0;
 }
 
 body {
