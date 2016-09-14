@@ -3,18 +3,21 @@ header {
 }
 
 header .title-1 {
+  display: flex;
   font-size: 92px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header .title-2 {
+  display: flex;
   font-size: 58px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header .title-3 {
+  display: flex;
   font-size: 44px;
   font-family: Garamond, serif;
   color: #510216;
@@ -25,7 +28,7 @@ header .row, footer .row {
   align-items: center;
 }
 
-header nav .col-sm-8 {
+header nav {
   display: flex;
   justify-content: flex-end;
 }
