@@ -22,7 +22,7 @@ header .title-3 {
 
 header .row, footer .row {
   display: flex;
-  align-items: left;
+  justify-content: flex-end;
 }
 
 header nav {
@@ -47,7 +47,7 @@ body {
   display: flex;
   align-items: center;
   background-image: url('https://github.com/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg?raw=true');
-  background-size: fit;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 800px;
 }
