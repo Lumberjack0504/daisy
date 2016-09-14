@@ -22,10 +22,9 @@ header .title-3 {
 
 header .row, footer .row {
   display: flex;
-  align-items: center;
 }
 
-header nav {
+header nav .col-sm-8 {
   display: flex;
   justify-content: flex-end;
 }
@@ -48,7 +47,7 @@ body {
   background-image: url('https://github.com/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg?raw=true');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 800px;
+  height: 1000px;
 }
 
 .jumbotron h3 {
@@ -56,11 +55,10 @@ body {
   top: -325px;
   font-size: 50px;
   font-family: serif;
-  color: #666363;
-  border: 2px bold black;
-  border-radius: 10px;
-  background-color: ##ADA9AA;
   color: #510216;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #ADA9AA;
 }
 
 footer {
@@ -75,9 +73,4 @@ footer .col-sm-8 {
 
 footer ul {
   list-style: none;
-}
-
-footer li img {
-  height: 38px;
-  width: 38px;
 }
