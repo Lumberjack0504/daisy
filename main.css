@@ -60,7 +60,7 @@ body {
   color: #510216;
   border: 0px;
   border-radius: 10px;
-  background-color: rbga(173,169,170,0.6);
+  background: rbga(173,169,170,0.6);
 }
 
 footer {
