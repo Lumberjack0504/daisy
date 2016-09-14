@@ -32,7 +32,7 @@ header nav {
 
 header p {
   font-family: Garamond, serif;
-  font-size: 28px;
+  font-size: 25px;
   color: #510216;
   padding: 0 10px;
   margin: 0;
@@ -53,8 +53,8 @@ body {
 
 .jumbotron h3 {
   position: relative;
-  top: -200px;
-  font-size: 40px;
+  top: -400px;
+  font-size: 50px;
   font-family: serif;
   color: white;
 }
