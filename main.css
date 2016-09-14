@@ -27,7 +27,7 @@ header .row, footer .row {
 
 header nav {
   display: flex;
-  justify: flex-end;
+  justify-content: right;
 }
 
 header p {
@@ -57,7 +57,7 @@ body {
   font-size: 50px;
   font-family: serif;
   color: #666363;
-  border: 1px solid black;
+  border: 2px bold black;
   border-radius: 10px;
   background-color: ##ADA9AA;
   color: #510216;
