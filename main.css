@@ -3,21 +3,29 @@ header {
 }
 
 header .title-1 {
-  font-size: 96px;
+  font-size: 92px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header .title-2 {
-  font-size: 62px;
+  font-size: 58px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
 header .title-3 {
-  font-size: 48px;
+  font-size: 44px;
   font-family: Garamond, serif;
   color: #510216;
+}
+
+header .row {
+  float: left;
+}
+
+header .row {
+  float: right;
 }
 
 header .row, footer .row {
