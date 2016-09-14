@@ -2,21 +2,21 @@ header {
   padding: 10px 0;
 }
 
-header .title-1 {
+header h1 {
   display: flex;
   font-size: 92px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
-header .title-2 {
+header h2 {
   display: flex;
   font-size: 58px;
   font-family: Garamond, serif;
   color: #510216;
 }
 
-header .title-3 {
+header h3 {
   display: flex;
   font-size: 44px;
   font-family: Garamond, serif;
