@@ -56,12 +56,11 @@ body {
   top: -375px;
   font-size: 50px;
   font-family: serif;
-  font-weight: bold solid;
+  font-weight: bold;
   color: #510216;
   border: 0px;
   border-radius: 10px;
-  background-color: #ADA9AA;
-  opacity: 0.6;
+  background-color: rbga (173, 169, 170, 0.6);
 }
 
 footer {
