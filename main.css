@@ -25,7 +25,7 @@ header .row, footer .row {
   align-items: center;
 }
 
-header nav {
+header nav .col-sm-8 {
   display: flex;
   justify-content: flex-end;
 }
