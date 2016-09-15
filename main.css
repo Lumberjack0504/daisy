@@ -3,6 +3,16 @@
     background-image: url('https://github.com/Lumberjack0504/daisy/blob/master/gjmtopphoto.jpg?raw=true') 50% no-repeat;
     max-width: 100%;
   }
+  
+  header h1 {
+    max-width: 100%;
+  }
+  
+  header h2 {
+    max-width 100%;
+  }
+  
+  
 }
 
 header h1 {
