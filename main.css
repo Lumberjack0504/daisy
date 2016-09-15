@@ -32,7 +32,7 @@ header nav {
   align: right;
 }
 
-header p {
+header p a {
   font-family: Garamond, serif;
   font-size: 25px;
   color: #510216;
