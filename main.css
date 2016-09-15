@@ -55,6 +55,7 @@ body {
   border: 0px;
   border-radius: 10px;
   background: rgba(173,169,170,0.65);
+  padding: 5px;
 }
 
 footer {
