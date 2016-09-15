@@ -24,7 +24,6 @@ header .row, footer .row {
 header nav {
   display: flex;
   justify-content: flex-end;
-  align: right;
 }
 
 header a {
@@ -61,8 +60,6 @@ body {
 footer {
   font-size: 15px:
   padding: 5px;
-  margin: 0;
-  align-items: center;
 }
 
 footer .col-sm-8 {
